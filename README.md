@@ -1,7 +1,7 @@
 # votesystem
  Context:Electronic Voting in India , The strong technical safeguards in electronic voting machines and elaborate administrative safeguards, procedures and security put in place by ECI ensure that the election is transparent, free and fair.
 
- Name of Project:   Ethereum_Decentralized_Voting_System_using_FullStack 
+ Name of Project:   Voting_Application_FullStack 
 Language:                 PHP
 Databases used:     MySQL
 Design used:            HTML JavaScript, Ajax, JQuery, Bootstrap
